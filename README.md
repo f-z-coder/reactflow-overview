@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# Reactflow Overview 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive app built with **React Flow** to create dynamic, interactive diagrams with custom nodes & edges. This project showcases the power and flexibility of React Flow by allowing users to build, modify, and validate graph structures with ease.
 
-## Available Scripts
+## 🔗 Live Demo
 
-In the project directory, you can run:
+- **Live Demo**: [Reactflow Overview](https://reactflow-overview.netlify.app)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🎥 Video Showcase
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Check out the video demonstration of the project:
 
-### `npm test`
+[![Reactflow Overview Showcase](https://github.com/f-z-coder/reactflow-overview/blob/main/public/reactflow-overview-demo.mp4)](https://github.com/f-z-coder/reactflow-overview/blob/main/public/reactflow-overview-demo.mp4)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ✨ Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Dynamic Node Management**: Add and connect nodes on the fly.
+- **Delete Functionality**: Remove unwanted nodes and edges seamlessly.
+- **Visual Pipelines**: Create complex workflows or pipelines visually.
+- **Text Nodes with Auto-Handles**: Add handles automatically for connections based on patterns like `{{name}}` in text nodes.
+- **Graph Validation**: Validate if the current graph is a **Directed Acyclic Graph (DAG)** before submission.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Technologies Used
 
-### `npm run eject`
+- **React**: UI Library
+- **React Flow**: For building diagrams and graph visualizations
+- **Tailwind CSS**: For styling
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Prerequisites
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Make sure you have the following installed:
 
-## Learn More
+- Node.js >= 14
+- npm or yarn
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/f-z-coder/reactflow-overview.git
+   cd reactflow-overview
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+3. Start the development server:
+   ```bash
+   npm run start
+   # or
+   yarn start
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤝 Contributions
 
-### Analyzing the Bundle Size
+Feel free to fork the repository, make changes, and submit a pull request. Feedback and ideas are always welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🛡️ License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📬 Contact
 
-### Deployment
+Created by [Faiz Shaikh](https://faiz-shaikh.in)  
+If you have any questions, feel free to reach out!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 🙌 Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [React Flow Documentation](https://reactflow.dev/)
+- Inspiration from the open-source community
