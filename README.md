@@ -11,7 +11,9 @@ An interactive app built with **React Flow** to create dynamic, interactive diag
 ## 🎥 Video Showcase
 
 Check out this video walkthrough to see the project in action:  
-[![Reactflow Overview Showcase](https://github.com/f-z-coder/reactflow-overview/blob/main/public/video-preview.png)](https://github.com/f-z-coder/reactflow-overview/blob/5449180dfea8a37e65e3d0f32cc6fbfa7b95b9d3/public/reactflow-overview-demo.mp4)
+
+https://github.com/user-attachments/assets/d3a66d47-1034-4bf7-be71-4b31827adaee
+
 
 ---
 
